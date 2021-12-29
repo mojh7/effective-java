@@ -1,2 +1,14 @@
-# effective-java
-effective java 3/e study
+# effective java 3/e study
+
+
+
+
+
+## 목차
+
+
+2장 객체 생성과 파괴
+
+| 내용 | 담당 |
+| :--: | :--: |
+| 아이템 1. 생성자 대신 정적 팩터리 메서드를 고려하라 |      |
